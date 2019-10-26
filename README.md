@@ -25,8 +25,4 @@ https://git-scm.com/.
  - [4] Project Jupyter. Project jupyter.
 https://jupyter.org/.1] 
  - [5] NumPy developers. Numpy.
-<<<<<<< HEAD
 http://www.numpy.org/.
-=======
-http://www.numpy.org/.
->>>>>>> 5c6f1ec22d09f8e7c8315e9ad06e8a5f75ad0b30

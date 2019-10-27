@@ -11,9 +11,6 @@ There are four sections within the Jupyter notebook:
 4. Use of seeds in generating pseudorandom numbers.
 
 
-## Conclusion
-
-
 
 References
  - [1] Python Software Foundation. Welcome to python.org.
@@ -26,3 +23,9 @@ https://git-scm.com/.
 https://jupyter.org/.1] 
  - [5] NumPy developers. Numpy.
 http://www.numpy.org/.
+ - [6] Analytics Training
+https://analyticstraining.com/random-numbers-applications/.
+ - [7] Scipy
+ https://docs.scipy.org/doc/numpy-1.15.0/reference/
+  - [8] Python-ds
+http://python-ds.com/python-normal-distribution

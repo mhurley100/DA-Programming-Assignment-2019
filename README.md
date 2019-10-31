@@ -27,5 +27,7 @@ http://www.numpy.org/.
 https://analyticstraining.com/random-numbers-applications/.
  - [7] Scipy
  https://docs.scipy.org/doc/numpy-1.15.0/reference/
-  - [8] Python-ds
-http://python-ds.com/python-normal-distribution
+ - [8] Datacamp.com
+https://www.datacamp.com/community/tutorials/probability-distributions-python
+ - [9] Wikipedia
+https://en.wikipedia.org/wiki/Poisson_distribution

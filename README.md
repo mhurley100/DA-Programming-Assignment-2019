@@ -31,3 +31,9 @@ https://analyticstraining.com/random-numbers-applications/.
 https://www.datacamp.com/community/tutorials/probability-distributions-python
  - [9] Wikipedia
 https://en.wikipedia.org/wiki/Poisson_distribution
+ - [10] StackOverflow
+https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy
+- [11] Scipy
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.pareto.html
+- [12] Scipy
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html

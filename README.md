@@ -1,14 +1,15 @@
 # DA-Programming-Assignment-2019
 ## Introduction
 
-This assignment concerns the numpy.random package in Python [5] using Jupyter [4] notebook to explain the use of the package, including
-detailed explanations of at least five of the distributions provided for in the package:
+This assignment relates to the numpy.random package in Python [1] using Jupyter [4] notebook.
 
-There are four sections within the Jupyter notebook:
-1. Overall purpose of the package explained.
-2. “Simple random data” and “Permutations” functions explained.
-3. Demonstration of use and purpose of at least five “Distributions” functions.
-4. Use of seeds in generating pseudorandom numbers.
+There are four tasks explained in this in notebook:
+
+1. Overall purpose of the Numpy random package.
+2. The use of the “Simple random data” and “Permutations” functions
+3. The use and purpose of at least five “Distributions” functions
+4. The use of seeds in generating pseudorandom numbers
+
 
 
 
@@ -36,10 +37,12 @@ https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpyhttps://www
 - [11] Investopedia
 https://www.investopedia.com/terms/s/simple-random-sample.asp
 - [11] Scipy
-https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.pareto.html
-- [12] Scipy
-https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html
+https://docs.scipy.org/doc/scipy/reference/stats.html
+- [12] Statistics by Jim
+https://statisticsbyjim.com/basics/probability-distributions/
 -[13] Bucknell
 https://www.eg.bucknell.edu/~xmeng/Course/CS6337/Note/master/
 -[14] NYU
 https://physics.nyu.edu/pine/pymanual/html/chap3/chap3_arrays.html
+-[15] Analyticsvidhya
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/

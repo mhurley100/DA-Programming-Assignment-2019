@@ -14,26 +14,32 @@ There are four sections within the Jupyter notebook:
 
 References
  - [1] Python Software Foundation. Welcome to python.org.
-https://www.python.org/.
+https://www.python.org/
  - [2] GMIT. Quality assurance framework.
-https://www.gmit.ie/general/quality-assurance-framework.
+https://www.gmit.ie/general/quality-assurance-framework
  - [3] Software Freedom Conservancy. Git.
-https://git-scm.com/.
+https://git-scm.com/
  - [4] Project Jupyter. Project jupyter.
-https://jupyter.org/.1] 
+https://jupyter.org/
  - [5] NumPy developers. Numpy.
-http://www.numpy.org/.
+http://www.numpy.org/
  - [6] Analytics Training
-https://analyticstraining.com/random-numbers-applications/.
+https://analyticstraining.com/random-numbers-applications
  - [7] Scipy
- https://docs.scipy.org/doc/numpy-1.15.0/reference/
- - [8] Datacamp.com
+ https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html
+ - [8] Datacamp
 https://www.datacamp.com/community/tutorials/probability-distributions-python
  - [9] Wikipedia
 https://en.wikipedia.org/wiki/Poisson_distribution
  - [10] StackOverflow
-https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy
+https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpyhttps://www.investopedia.com/terms/s/simple-random-sample.asp
+- [11] Investopedia
+https://www.investopedia.com/terms/s/simple-random-sample.asp
 - [11] Scipy
 https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.pareto.html
 - [12] Scipy
 https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.normal.html
+-[13] Bucknell
+https://www.eg.bucknell.edu/~xmeng/Course/CS6337/Note/master/
+-[14] NYU
+https://physics.nyu.edu/pine/pymanual/html/chap3/chap3_arrays.html

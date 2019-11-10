@@ -7,7 +7,8 @@ There are four tasks explained in this in notebook:
 
 1. Overall purpose of the Numpy random package.
 2. The use of the “Simple random data” and “Permutations” functions
-3. The use and purpose of five “Distributions” functions
+3. The use and purpose of six “Distributions” functions
+     - Uniform
      - Normal
      - Binomial
      - Poisson
